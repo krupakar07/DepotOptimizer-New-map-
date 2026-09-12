@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "min": 1,
+            "max": 70,
+            "drivers": 1
+        },
+        {
+            "min": 71,
+            "max": 120,
+            "drivers": 2
+        },
+        {
+            "min": 121,
+            "max": 180,
+            "drivers": 3
+        },
+        {
+            "min": 181,
+            "max": 240,
+            "drivers": 4
+        }
+    ]
+}
